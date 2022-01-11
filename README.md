@@ -23,3 +23,4 @@ born2beroot								|	[born2beroot/](https://github.com/iidkhebb/born2beroot)		| 
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 so_long								|	[so_long/](https://github.com/iidkhebb/so_long)		|  All your files   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/iidkhebb/so_long)](https://github.com/iidkhebb/so_long) |
 mini_talk								|	[mini_talk/](https://github.com/iidkhebb/mini_talk)		|  All your files   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/iidkhebb/minitalk)](https://github.com/iidkhebb/minitalk) |
+Push_swap							|	[push_swap/](https://github.com/iidkhebb/push_swap)		|  All your files   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/iidkhebb/push_swap)](https://github.com/iidkhebb/push_swap) |
