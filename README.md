@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=iidkhebb)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://badge42.herokuapp.com/api/stats/iidkhebb?privacyName=true)](https://github.com/mohouyizme/1337-readme)
 
 These are all my projects in the 42Cursus of [42 KHOURIBGA](https://1337.ma/).
 
