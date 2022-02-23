@@ -2,8 +2,6 @@
 
 These are all my projects in the 42Cursus of [42 KHOURIBGA](https://1337.ma/).
 
-**ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
-
 ## Rank 0
 
 |			Name				|	Directory	| Repo Files | Mark |
