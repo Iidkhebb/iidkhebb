@@ -27,4 +27,4 @@ Push_swap							|	[push_swap/](https://github.com/iidkhebb/push_swap)		|  All yo
 ## Rank 3
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-Philosophers								|	[Philosophers/](https://github.com/iidkhebb/philosophers)		|  All your files   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/iidkhebb/philosophers)](https://github.com/iidkhebb/philosophers) |
+Philosophers								|	[Philosophers/](https://github.com/iidkhebb/philosophers)		|  All your files   | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/iidkhebb/Philosophers)](https://github.com/iidkhebb/philosophers) |
