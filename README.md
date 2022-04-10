@@ -1,4 +1,6 @@
-[![42 Profile Card](https://badge42.herokuapp.com/api/stats/iidkhebb?privacyName=true)](https://github.com/mohouyizme/1337-readme)
+
+
+[![iidkhebb's 42 stats](https://badge.mediaplus.ma/binary/iidkhebb)](https://github.com/oakoudad/badge42)
 
 These are all my projects in the 42Cursus of [42 KHOURIBGA](https://1337.ma/).
 
