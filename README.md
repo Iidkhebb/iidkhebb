@@ -1,4 +1,4 @@
-[![iidkhebb's 42 stats](https://badge.mediaplus.ma/binary/iidkhebb)](https://github.com/oakoudad/badge42)
+[![iidkhebb's 42 stats](https://badge.mediaplus.ma/binary/iidkhebb)]
 
 <h1 align="center">Hi 👋, I'm Ilyasse Idkhebbach</h1>
 <h3 align="center">A passionate Backend developer from Morocco</h3>
